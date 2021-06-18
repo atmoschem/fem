@@ -1,0 +1,9 @@
+^.*\.Rproj$
+^\.Rproj\.user$
+^README.Rmd$
+^README.html$
+^NEWS.mdf$
+^docs$
+^doc$
+^_pkgdown\.yml$
+^.github$
